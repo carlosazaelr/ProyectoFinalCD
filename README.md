@@ -1,7 +1,7 @@
 # Proyecto Final: Dataset del Nivel de Estrés entre Estudiantes
 
 ## Información de los estudiantes
-Fernanda Antúnez \[22211745]; 22211745@tectijuana.edu.mx, Carlos Ramirez \[22212267]; 22212267@tectijuana.edu.mx, Alberto Villalobos \[22212277]; 22212277@tectijuana.edu.mx
+Fernanda Antúnez \[22211745]; 22211745@tectijuana.edu.mx,  Carlos Ramirez \[22212267]; 22212267@tectijuana.edu.mx,  Alberto Villalobos \[22212277]; 22212277@tectijuana.edu.mx
 
 Introducción a Ciencias de Datos
 
