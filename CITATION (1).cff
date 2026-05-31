@@ -2,11 +2,11 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB; SIMULINK
+title: Python; SQL; JavaScript; HTML
 message: lenguaje m
 type: software
 authors:
-  - given-names: 'Fernanda '
+  - given-names: 'Fernanda'
     family-names: Antunez
     email: l22211745@tectijuana.edu.mx
     affiliation: TecNM-ITT
@@ -14,13 +14,17 @@ authors:
     family-names: Ramirez
     email: l22212267@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/FernandaAntunez/ProyectoFinal-Dinamica_del_VIH'
+  - given-names: 'Alberto'
+    family-names: Villalobos
+    email: l22212277@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/carlosazaelr/ProyectoFinalCD'
 keywords:
-  - Carga Viral
-  - Inestabilidad
-  - Población Celular
-  - Modelo matemático
-  - VIH
+  - Estres
+  - Dataset
+  - Estudiantes
+  - Estadistica
+  - Python
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-05-25'
+date-released: '2026-05-30'
